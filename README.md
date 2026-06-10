@@ -1,41 +1,37 @@
 # Rimah Matar
 
-MSc Candidate in Computer Science at the University of Miskolc, specializing in full-stack enterprise architectures, data engineering, and hardware-software co-design.
+I am a Computer and Communication Engineering graduate (Bachelor’s degree) from the Lebanese University and currently pursuing my Master’s degree in Computer Science Engineering, with practical experience in full-stack web development. I specialize in building responsive and user-centric websites using HTML, CSS, JavaScript, PHP, SQL, and WordPress.
+
+My expertise includes developing both frontend and backend functionalities, optimizing websites for SEO, and ensuring cross-device and cross-browser compatibility. I am proficient with GitHub for version control and Figma for interface design, enabling effective collaboration and streamlined development workflows.
 
 ---
 
-## Technical Portfolio & Skill Matrix
+## Technical Capabilities & Core Skills
 
-* **Systems & Embedded Engineering:** C, C++, MATLAB, Vitis (Hardware-Software Co-Design), Object-Oriented Programming (OOP)
-* **Enterprise Backend Infrastructure:** Java, C#, Python, VB.NET
-* **Data Engineering & Directory Services:** SQL, Relational Model Design, MongoDB, Neo4j, eXist-db, LDAP, XML, XML Schema (XSD), XQuery, JSON
-* **Full-Stack & Component-Based Web Development:** JavaScript, Node.js, React.js, HTML5, CSS3
-* **Computer-Aided Design & UI/UX:** PTC Creo (3D/2D Parametric Modeling), Figma, WordPress, UI/UX Architecture
-* **Systems Optimization & Analytics:** Search Engine Optimization (SEO), SEMrush, Ahrefs
-
----
-
-## Technical Focus Areas & Academic Projects
-
-### Enterprise Software Architecture & Data Management
-* End-to-end implementation of multi-tier software applications, combining object-oriented backend languages (Java, C#) with modern asynchronous web environments (React.js, Node.js).
-* Database design and optimization across disparate data paradigms, including relational systems, NoSQL document stores (MongoDB), graph structures (Neo4j), and hierarchical XML/Native-XML systems (eXist-db).
-
-### Intelligent Systems, Automation & CAD Engineering
-* System design and conceptual architecture for "Watchful Eye," an automated, sensor-driven monitoring framework designed for environmental tracking and real-time processing.
-* Analytical modeling and parametric prototyping of electromechanical systems using PTC Creo, supporting specialized team studies in vehicle powertrain automation and electric vehicle (EV) conversions.
+* **Programming Languages:** Java, C, C++, C#, Python, PHP, JavaScript, VB.NET, MATLAB
+* **Web & Full-Stack Development:** HTML5, CSS3, React.js, Node.js, WordPress, JSON
+* **Data & Directory Engineering:** SQL, Relational Model, MongoDB, Neo4j, eXist-db, LDAP, XML, XSD, XQuery
+* **Artificial Intelligence Frameworks:** Design, training, and implementation of Artificial Neural Networks (ANN), Recurrent Neural Networks (RNN), and Convolutional Neural Networks (CNN) using Python.
+* **Hardware & Systems Engineering:** PTC Creo (3D/2D CAD Modeling), Vitis (Hardware-Software Co-Design)
 
 ---
 
-## Leadership, Methodology & Interpersonal Competencies
+##  Provided Services & Competencies
 
-* **IT Project Management (HSUP):** Serving as IT Lead within the Hungarian Startup University Program. Responsibilities include system requirements elicitation, technical roadmap definition, delegation of tasks, and structural alignment of software systems with project goals.
-* **Engineering Methodology:** Strong grounding in rigorous software engineering principles, agile development workflows, systematic data validation, and clean-code architectures.
-* **International Collaboration & Interpersonal Skills:** Highly developed capacity for cross-functional teamwork and cross-cultural communication, demonstrated through active engagement in international engineering networks and upcoming Erasmus+ technical mobility frameworks in Slovakia and Poland.
+* **Educational Support & Mentorship:** Teaching programming fundamentals and conducting code reviews for students to optimize code quality, logic, and debugging skills.
+* **Technical Support & System Administration:** Hardware and software troubleshooting, debugging complex environment issues, and general PC technical support.
+* **Digital Design & Strategy:** Graphic design execution for social media layouts, digital content creation, and search engine optimization (SEO) utilizing tools like SEMrush and Ahrefs.
 
 ---
 
-## Communication & Professional Network
+## Leadership & Global Mobility
 
-* **Institutional Email:** rimahmatar.out@gmail.com
-* **Professional Network:** www.linkedin.com/in/rimah-matar
+* **IT Lead (HSUP):** Driving technical coordination, architectural definition, and project milestone planning within the Hungarian Startup University Program.
+* **International Mobility:** Collaborating across cultures within international engineering networks, including upcoming technical mobility frameworks within the Erasmus+ network in Slovakia.
+
+---
+
+## Contact & Professional Links
+
+* **Email:** rimahmatar.out@gmail.com
+* **Linkedin Profile:** www.linkedin.com/in/rimah-matar
